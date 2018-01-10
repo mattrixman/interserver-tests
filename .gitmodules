@@ -1,0 +1,3 @@
+[submodule "boarding-server"]
+	path = boarding-server
+	url = ssh://git@phabricator.dev.clover.com/source/boarding-server.git
